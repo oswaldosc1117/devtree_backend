@@ -1,0 +1,5 @@
+.env
+node_modules/
+pachage-lock.json
+.Ds_Store
+dist/
